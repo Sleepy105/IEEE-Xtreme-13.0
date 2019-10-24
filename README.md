@@ -1,6 +1,11 @@
 # IEEE-Xtreme-13.0
 Code submitted to IEEE Xtreme 13.0 by team rIoTers
 
+## Rankings
+- Portugal **4th Place**
+- IEEE Region 8 **119th Place**
+- Global **365th Place**
+
 ## Problems
 
 - Xtreme Rappers - 43.6 points **(88.24%)**
